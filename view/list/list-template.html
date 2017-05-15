@@ -1,0 +1,35 @@
+<div class='container-fluid'>
+	<div class='row grid-row' >
+        <p class="search">
+		 		 输入您想要的应用或游戏的名称 ：
+		 	    <input ng-model="query"/>
+		</p>
+		<div class="col-md-2">
+			<p class="selection">
+			 	<span>排序 :</span>
+		        <select ng-model='orderProp'>
+		            <option value="name">Name</option>
+		            <option value="size">Size</option>
+		        </select>
+		    </p>
+		    <div class="category">
+		        <p>程序类别</p>
+		        <a ng-click="selectCategory()" class="btn btn-block btn-small btn-info">全部</a>
+		        <a ng-click="selectCategory()" class="btn btn-block btn-small btn-info">实用工具</a>
+		        <a ng-click="selectCategory()" class="btn btn-block btn-small btn-info">音乐视频</a>
+		        <a ng-click="selectCategory()" class="btn btn-block btn-small btn-info">生活</a>
+		        <a ng-click="selectCategory()" class="btn btn-block btn-small btn-info">游戏</a>
+		        <a ng-click="selectCategory()" class="btn btn-block btn-small btn-info">聊天社交</a>
+			</div>
+	    </div>
+	<div class="col-md-10">
+	    	<ul class="app">
+	    	 	<li ng-repeat="app in apps | filter:query|orderBy:orderProp">
+	    	 		<a href='#!/apps/{{app.id}}'><img ng-src="{{app.imageUrl}}" alt="app.name" width="100px" /></a>
+	    	 	    <p>{{app.name}}</p>
+	    	 	    
+
+	    	 	</li>
+	        </ul>
+	    </div>
+

@@ -1,0 +1,10 @@
+
+	{   
+		"id":"gmail",
+		"name":"Gmail",
+        "imageUrl": "image/Gmail.png",
+		"category":"实用工具",
+        "size":"18.3",
+        "version":"7.3.26.153522445",
+        "descripition":"提供直觉化、有效率且实用的电子邮件服务是 Gmail 的使命，我们甚至让收发邮件变得更有趣"
+	}

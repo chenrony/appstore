@@ -1,0 +1,10 @@
+
+	{   
+		"id":"facebook",
+		"name":"facebook",
+        "imageUrl": "image/facebook.png",
+		"category":"聊天社交",
+        "size":"71.8",
+        "version":"120.0.0.18.72",
+        "descripition":"和朋友保持联络，从没如此轻松快捷?查看朋友的近况?分享最新消息、相片和影片?当朋友对你贴文说赞或回应，立刻收到通知?送短信、聊天和群聊?玩游戏和使用你最爱的应用程式Facebook只限年满13岁用户使用"
+	}

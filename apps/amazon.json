@@ -1,0 +1,10 @@
+
+	{   
+		"id":"amazon",
+		"name":"Amazon",
+        "imageUrl": "image/Amazon.png",
+		"category":"生活",
+        "size":"25.0",
+        "version":"10.7.0.600",
+        "descripition":"全面快速搜索，获得产品详情、阅读评论并购买Amazon.cn和其他商家提供的数千万产品"
+	}

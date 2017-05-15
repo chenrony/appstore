@@ -1,0 +1,335 @@
+[
+	{
+        "id":"360weishi",
+		"name":"360卫士",
+        "imageUrl": "image/360卫士.png",
+		"category":"实用工具",
+        "size":"14.7",
+        "version":"7.7.0",
+        "descripition":"360手机卫士，10亿人的安全选择将人与安全紧密连接，为您提供全方位手机安全管理服务！"
+    },
+	{
+        "id":"amazon",
+		"name":"Amazon",
+        "imageUrl": "image/Amazon.png",
+		"category":"生活",
+        "size":"25.0",
+        "version":"10.7.0.600",
+        "descripition":"全面快速搜索，获得产品详情、阅读评论并购买Amazon.cn和其他商家提供的数千万产品"
+    },
+    {
+        "id":"chrome",
+		"name":"Chrome",
+        "imageUrl": "image/Chrome.png",
+		"category":"实用工具",
+        "size":"46.07",
+        "version":"58.0.3029.83",
+        "descripition":"谷歌Google Chrome浏览器不仅在桌面设备上表现卓越，在Android手机和平板电脑上也可让您畅享快速流畅的浏览体验"
+    },
+    {
+        "id":"cuttherope",
+		"name":"Cut the Rope",
+        "imageUrl": "image/cuttherope.png",
+		"category":"游戏",
+        "size":"26.5",
+        "version":"2.3.7",
+        "descripition":"《割绳子：增强版》是《割绳子》的中文震撼续作"
+    },
+    {
+        "id":"facebook",
+		"name":"facebook",
+        "imageUrl": "image/facebook.png",
+		"category":"聊天社交",
+        "size":"71.8",
+        "version":"120.0.0.18.72",
+        "descripition":"和朋友保持联络，从没如此轻松快捷?查看朋友的近况?分享最新消息、相片和影片?当朋友对你贴文说赞或回应，立刻收到通知?送短信、聊天和群聊?玩游戏和使用你最爱的应用程式Facebook只限年满13岁用户使用"
+    },
+	{
+        "id":"fruitninja",
+		"name":"Fruit Ninja",
+        "imageUrl": "image/fruitninja.png",
+		"category":"游戏",
+        "size":"29.2",
+        "version":"1.9.4",
+        "descripition":"水果忍者1.9.4版本更新简介：又是一年一度的暑期了，在这个热辣的季节，水果忍者带着满车的水果陪你度过一个凉爽的暑期"
+    },
+    {
+        "id":"gmail",
+		"name":"Gmail",
+        "imageUrl": "image/Gmail.png",
+		"category":"实用工具",
+        "size":"18.3",
+        "version":"7.3.26.153522445",
+        "descripition":"提供直觉化、有效率且实用的电子邮件服务是 Gmail 的使命，我们甚至让收发邮件变得更有趣"
+    },
+	{
+        "id":"plantsvszombies",
+        "imageUrl": "image/plantsvszombies.png",
+		"name":"Plants vs Zombies",
+		"category":"游戏",
+        "size":"79.9",
+        "version":"2.0.0",
+        "descripition":"新世界：摇滚年代(NMT)。将会回归三个经典的植物哦!分别是仙人掌、大蒜以及猫尾草!仙人掌穿透增强"
+    },
+    {
+        "id":"pptv",
+		"name":"PPTV",
+        "imageUrl": "image/PPTV.png",
+		"category":"音乐视频",
+        "size":"24.95",
+        "version":"6.4.2",
+        "descripition":"聚力视频-原PPTV聚力* 一起玩出精彩！"
+    },
+	{
+        "id":"qq",
+		"name":"QQ",
+        "imageUrl": "image/QQ.png",
+		"category":"聊天社交",
+        "size":"38.45",
+        "version":"6.7.1",
+        "descripition":"服务超过90%的移动互联网用户√多人视频、文件多端互传，不断创新满足沟通所需√致力于打造欢乐无限的沟通、娱乐与生活体验"
+    },
+    {
+        "id":"qqyinyue",
+		"name":"QQ音乐",
+        "imageUrl": "image/QQ音乐.png",
+		"category":"音乐视频",
+        "size":"25.02",
+        "version":"7.3.0.7",
+        "descripition":"《歌手》重磅回归QQ音乐，林忆莲、谭晶、萧敬腾、杜丽莎、光良、张敬轩、袁娅维、迪玛希为你呈现殿堂级音乐盛宴"
+    },
+	{
+        "id":"youtube",
+		"name":"YouTube",
+        "imageUrl": "image/youtube.png",
+		"category":"音乐视频",
+        "size":"20.2",
+        "version":"12.14.56",
+        "descripition":"该应用需要科学上网YouTube 随身看。Android 版的 YouTube 官方应用让您可以轻松变身音乐 DJ、观看功夫教学并与朋友分享所发现的精彩内容"
+    },
+    {
+        "id":"aiqiyi",
+		"name":"爱奇艺",
+        "imageUrl": "image/爱奇艺.png",
+		"category":"音乐视频",
+        "size":"26.79",
+        "version":"8.3",
+        "descripition":"限时抢！4月21日-23日，爱奇艺七周年VIP会员限时买一送一！一口气刷完热剧"
+    },
+	{
+        "id":"baiduditu",
+		"name":"百度地图",
+        "imageUrl": "image/百度地图.png",
+		"category":"实用工具",
+        "size":"39.06",
+        "version":"9.7.5",
+        "descripition":"专业手机地图，智能导航躲避拥堵，大数据运算推荐路线"
+    },
+    {
+        "id":"baofengyingyin",
+		"name":"暴风影音",
+        "imageUrl": "image/暴风影音.png",
+		"category":"音乐视频",
+        "size":"15.82",
+        "version":"7.1.06",
+        "descripition":"海量高清资源，看视频超贴心!热播剧持续连载更新！"
+    },
+    {
+        "id":"fenludexiaoniao",
+		"name":"愤怒的小鸟",
+        "imageUrl": "image/愤怒的小鸟.png",
+		"category":"游戏",
+        "size":"47.0",
+        "version":"2.6.4",
+        "descripition":"愤怒的小鸟是一款休闲游戏，本游戏中，小鸟们将不再干掉它们在大洋岛上的死敌绿猪了！新版的内容将围绕小鸟拯救新朋友Blu和Jewel的故事展开"
+    },
+    {
+        "id":"gaodeditu",
+		"name":"高德地图",
+        "imageUrl": "image/高德地图.png",
+		"category":"实用工具",
+        "size":"52.65",
+        "version":"8.0.4.2100",
+        "descripition":"高德地图-中国专业的手机地图，超过7亿用户正在使用！高德地图拥有全面的地点信息，特色语音导航、智能路线规划；省流量、耗电低、空间占用小、体验流畅，是您贴心的生活助手"
+    },
+    {
+        "id":"kougou",
+		"name":"酷狗",
+        "imageUrl": "image/酷狗.png",
+		"category":"音乐视频",
+        "size":"36.0",
+        "version":"8.7.0",
+        "descripition":"酷狗音乐核心功能:更人性化的操作界面界面全新设计，清新简洁，点划之间尽享畅爽体验;乐库体验大有不同耳目一新的乐库，新歌速递、权威榜单、精选歌单，你要找的音乐，都在酷狗乐库"
+    },
+    {
+        "id":"tengxunshipin",
+		"name":"腾讯视频",
+        "imageUrl": "image/腾讯视频.png",
+		"category":"音乐视频",
+        "size":"38.09",
+        "version":"5.5.2.11955",
+        "descripition":"精彩内容，现在就要"
+    },
+	{
+        "id":"toudu",
+		"name":"土豆",
+        "imageUrl": "image/土豆.png",
+		"category":"音乐视频",
+        "size":"36.48",
+        "version":"6.0.5",
+        "descripition":"你们什么都要长的，其实短的也可以很持久很有力啊 ;我大土豆从今以后，就要走上弃长从短的持久之路啦！短出高潮招，短出满分，短出厚颜无耻的自豪感！"
+    },
+    {
+        "id":"weibo",
+		"name":"微博",
+        "imageUrl": "image/微博.png",
+		"category":"聊天社交",
+        "size":"74.42",
+        "version":"7.4.0",
+        "descripition":"主标题：疯狂粉丝节！自拍吧，骚年！副标题：万元大礼邀你发自拍 (3.24-3.30)打开微博，搜索并参与#疯狂粉丝节#话题活动，即可。总价值超过4万元京东卡大奖开抢啦！更多活动详情请查询话题内海报。随时随地发现新鲜事！"
+    },
+	{
+        "id":"weixin",
+		"name":"微信",
+        "imageUrl": "image/微信.png",
+		"category":"聊天社交",
+        "size":"40.43",
+        "version":"6.5.7",
+        "descripition":"应用介绍：可以发语音、文字消息、表情、图片、视频。30M流量可以收发上千条语音，省电省流量。朋友圈，跟朋友们分享生活点滴。摇一摇、查看附近的人，世界不再有陌生人"
+    },
+	{
+        "id":"youku",
+		"name":"优酷",
+        "imageUrl": "image/优酷.png",
+		"category":"音乐视频",
+		"size":"54.6",
+		"version":"6.4.7",
+		"descripition":"一次相遇一段故事一个全新的开始优酷 这世界很酷《大明王朝1566》经典回归，壮阔开年大戏《人民的名义》实力派演员吹响反贪集结号，史上大尺度反腐剧亮剑打虎《晓说2017》世界依旧很大"
+	},
+	{
+        "id":"zhifubao",
+		"name":"支付宝",
+        "imageUrl": "image/支付宝.png",
+		"category":"生活",
+		"size":"57.87",
+		"version":"10.0.12.042101",
+		"descripition":"蚂蚁金服旗下的支付宝，是以每个人为中心，拥有超4.5亿实名用户的生活服务平台。目前，支付宝已发展成为融合了支付、生活服务、政务服务、社交、理财、保险、公益等多个场景与行业的开放性平台。除提供便捷的支付、转账、收款等基础功能外，还能快速完成信用卡还款、充话费、缴水电煤等！"
+	},
+    {
+        "id":"qqyouxiang",
+        "name":"QQ邮箱",
+        "imageUrl":"image/QQ邮箱.png",
+        "category":"聊天社交",
+        "size":"15.17",
+        "version":"5.3.0",
+        "descripition":"全面支持邮件通用协议，协助在手机上管理你的所有邮箱。在手机上发送贺卡，在设置中查询收信记录，读信页面，截屏后快速标注，高效便捷的邮箱通讯录，外文邮件翻译为中文"
+    },
+    {
+        "id":"ucliulanqi",
+        "name":"UC浏览器",
+        "imageUrl":"image/UC浏览器.png",
+        "category":"实用工具",
+        "size":"19.1",
+        "version":"10.5.2",
+        "descripition":"5亿用户共同的选择，你要的现在就给！创意搞怪爱奇异，天天分享好心情，热门小说应有尽有，千万书友跟你一起互动吐槽，最新最热最流畅的视频，弹幕倾吐心情，看尽人间繁华"
+    },
+    {
+        "id":"baidunuomi",
+        "name":"百度糯米",
+        "imageUrl":"image/百度糯米.png",
+        "category":"生活",
+        "size":"32.29",
+        "version":"7.3.1",
+        "descripition":"集合2017热门演唱会项目制作《2017看什么演唱会》内容专题，并有专项低价演唱会票，美得你家装，消费益，年收益6%，装修后本金收益达20%，新增聚餐工具功能，根据人群、口味等偏好，向您推荐优质好店，彻底告别选店困难！"
+    },
+    {
+        "id":"dazhongdianping",
+        "name":"大众点评",
+        "imageUrl":"image/大众点评.png",
+        "category":"生活",
+        "size":"42.51",
+        "version":"9.2.0",
+        "descripition":"今天吃什么？去哪吃？怎么吃？“最懂你”频道结合全球消费大数据，为你提供最精准的吃喝玩乐推荐，奇葩说唇枪舌战，意犹未尽？来点评为你支持的观点投票，顺手领个红包赢大奖！"
+    },
+    {
+        "id":"meiyanxiangji",
+        "name":"美颜相机",
+        "imageUrl":"image/美图美颜相机.png",
+        "category":"生活",
+        "size":"41.4",
+        "version":"5.7.5.0",
+        "descripition":"全球首款专为爱美人士定制的自拍神器，美图公司荣誉出品"
+    },
+    {
+        "id":"qunaerwang",
+        "name":"去哪儿旅行",
+        "imageUrl":"image/去哪儿网.png",
+        "category":"生活",
+        "size":"41.34",
+        "version":"8.5.0",
+        "descripition":"去哪儿旅行—总有你要的低价！作为中国领先的无线和在线旅游平台，去哪儿旅行支持用户低价购买近60万条国内国际航线，42万家国内酒店、16万家国际酒店；超100万条国内外度假线路和2万种景点门票；享受国内160座城市，以及国外86座城市的在线叫车、自驾等服务。"
+    },
+    {
+        "id":"weipinhui",
+        "name":"唯品会",
+        "imageUrl":"image/唯品会.png",
+        "category":"生活",
+        "size":"41.48",
+        "version":"5.35.3",
+        "descripition":"唯品会4.19全球特卖狂欢节来袭！4月18日20:00提前开抢！全球尖货5折起，折后再享满199减100；2000+商场大牌，初夏新品同步专柜上新；10亿+红包人人有份，更有大牌正品0元领，赶紧下载唯品会，先到先得哦"
+    },
+    {
+        "id":"xiechengwang",
+        "name":"携程旅行",
+        "imageUrl":"image/携程网.png",
+        "category":"生活",
+        "size":"50.9",
+        "version":"7.3.0",
+        "descripition":"携程旅行——携程在手，说走就走作为领先的在线旅行服务公司，携程旅行手机客户端提供国内110000余家酒店和酒店式公寓，海外600000余家酒店，国内所有航线和国际绝大多数主流航线机票，国内所有线路火车票，国内500余个城市200000余条线路的长途汽车票，国内超过150个城市和海外超过500个城市的机场接送机及自驾租车，覆盖285个城市约20万代驾司机服务，提供超实惠的景点门票等预订服务"
+    },
+    {
+        "id":"yangshiyinggyin",
+        "name":"央视影音",
+        "imageUrl":"image/央视影音.png",
+        "category":"音乐视频",
+        "size":"38.53",
+        "version":"6.1.64",
+        "descripition":"央视影音”移动客户端是CNTV中国网络电视台的主打产品，聚合了央视旗下海量的独家资源，涵盖了140多路直播频道、1300多个名栏目以及影视剧、纪录片等优质内容，为全球用户提供以电视直、点播为主的移动视频服务，给您带来便捷、流畅、清晰的观看体验。全新界面更美观，更简洁，更易用，看法从此大不同"
+    },
+    {
+        "id":"yixin",
+        "name":"易信",
+        "imageUrl":"image/易信.png",
+        "category":"聊天社交",
+        "size":"48.78",
+        "version":"5.2.1",
+        "descripition":"易信5.0全新升级，社交生活不孤单。免费电话畅聊不停，“聊呗”板块新鲜登场，更多玩法，让你告别无聊与孤单。主要功能◆【免费电话】- 无忧畅聊 真正好用的免费电话，可直播大陆手机固话，通话不耗流量，对方无需安装易信，高清音质，畅打无忧，在国外也能用； 消息没回？一键转为免费短信、电话留言，消息必达； 更有多人电话、视频电话等多种沟通方式等你体验"
+    },
+    {
+        "id":"googlediqiu",
+        "name":"Google地球",
+        "imageUrl":"image/Google地球.png",
+        "category":"实用工具",
+        "size":"10.12",
+        "version":"8.0.5.2351",
+        "descripition":"使用 Android 版 Google 地球，您只需指尖轻轻一滑，便可在整个星球上纵横驰骋。探索遥远的大陆，或者重温您儿时的旧居。通过语音搜索城市、地点和商家。浏览包括公路、边界、地点、照片等等在内的各种图层。访问 Google 地球图库，发现令人兴奋的地图细节，例如实时地震、空中的飞机、远足小径、城市旅游路线等。"
+    },
+    {
+        "id":"googlefanyi",
+        "name":"Google翻译",
+        "imageUrl":"image/Google翻译.png",
+        "category":"实用工具",
+        "size":"13.61",
+        "version":"5.8.1",
+        "descripition":"只需输入文字，即可在 103 种语言之间互译 点按翻译：在任何应用中复制文字，系统即会弹出相应翻译离线翻译：即使没有连接到互联网，也能翻译 52 种语言即时相机翻译：可使用相机将拍摄的文字即时翻译成 30 种语言 相机模式：对着文字进行拍照即可获取优质翻译(支持 37 种语言) 对话模式：支持 32 种语言的即时语音互译"
+    },
+    {
+        "id":"baiduyun",
+        "name":"百度云",
+        "imageUrl":"image/百度云.png",
+        "category":"实用工具",
+        "size":"23.33",
+        "version":"7.17.0",
+        "descripition":"百度网盘(原百度云)是由百度公司出品的一款个人云服务产品。使用百度网盘领取2T永久空间，相册、短信、通讯录、通话记录一键备份到云端，更有手机找回、密码锁等功能全方位为你数据保驾护航"
+    }
+    ]

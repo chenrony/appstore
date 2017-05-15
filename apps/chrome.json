@@ -1,0 +1,10 @@
+
+	{   
+		"id":"chrome",
+		"name":"Chrome",
+        "imageUrl": "image/Chrome.png",
+		"category":"实用工具",
+        "size":"46.07",
+        "version":"58.0.3029.83",
+        "descripition":"谷歌Google Chrome浏览器不仅在桌面设备上表现卓越，在Android手机和平板电脑上也可让您畅享快速流畅的浏览体验"
+	}

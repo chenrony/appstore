@@ -1,0 +1,10 @@
+
+	{   
+		"id":"fruitninja",
+		"name":"Fruit Ninja",
+        "imageUrl": "image/fruitninja.png",
+		"category":"游戏",
+        "size":"29.2",
+        "version":"1.9.4",
+        "descripition":"水果忍者1.9.4版本更新简介：又是一年一度的暑期了，在这个热辣的季节，水果忍者带着满车的水果陪你度过一个凉爽的暑期"
+	}

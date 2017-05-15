@@ -1,0 +1,43 @@
+.search{
+	
+	padding-top:50px;
+	padding-bottom: 30px;
+	font-size: 20px;
+	text-align: center;
+}
+
+input{
+	border-radius: 10px;
+}
+}
+.selection{
+	text-align:center;
+	color:#34a5d3;
+	
+}
+.selection span{
+	font-size:18px;
+	margin-left:20px;
+}
+select{
+	
+	color:#34a5d3;
+    width:100px;
+	height:30px;
+	border-radius: 5px;
+}
+.category{
+
+	margin: 50px 0px;
+}
+.category p{
+	font-size:20px;
+	color:#34a5d3;
+	text-align:center;
+}
+ul li{
+	width:150px;
+	float:left;
+	list-style: none;
+	text-align: center;
+}

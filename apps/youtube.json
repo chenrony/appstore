@@ -1,0 +1,10 @@
+
+	{   
+		"id":"youtube",
+		"name":"YouTube",
+        "imageUrl": "image/youtube.png",
+		"category":"音乐视频",
+        "size":"20.2",
+        "version":"12.14.56",
+        "descripition":"该应用需要科学上网YouTube 随身看。Android 版的 YouTube 官方应用让您可以轻松变身音乐 DJ、观看功夫教学并与朋友分享所发现的精彩内容"
+	}
